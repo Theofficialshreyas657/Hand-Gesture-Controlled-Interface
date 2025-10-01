@@ -1,5 +1,4 @@
 # Hand-Gesture-Controlled-Interface
-# Gesture-Controlled System Shortcuts
 
 ## 📖 Project Description
 This project implements a **gesture-based Human-Computer Interaction (HCI) system** that allows users to control their computer using **hand gestures**.  
